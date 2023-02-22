@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243789631194",
+    "project_id": "messages-app-91991",
+    "storage_bucket": "messages-app-91991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243789631194:android:bf57494e6ddc0e56849fe3",
+        "android_client_info": {
+          "package_name": "com.example.lets_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243789631194-r3coghf2444jkqbtc8qtcha8g6ttm9h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYQ20tuldsx0Ri-JKzTiy9WhyUgXLjzCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243789631194-r3coghf2444jkqbtc8qtcha8g6ttm9h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
